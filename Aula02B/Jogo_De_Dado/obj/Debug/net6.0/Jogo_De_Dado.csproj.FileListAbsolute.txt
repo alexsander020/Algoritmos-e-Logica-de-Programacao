@@ -1,0 +1,15 @@
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\bin\Debug\net6.0\Jogo_De_Dado.exe
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\bin\Debug\net6.0\Jogo_De_Dado.deps.json
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\bin\Debug\net6.0\Jogo_De_Dado.runtimeconfig.json
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\bin\Debug\net6.0\Jogo_De_Dado.dll
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\bin\Debug\net6.0\Jogo_De_Dado.pdb
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.csproj.AssemblyReference.cache
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.AssemblyInfoInputs.cache
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.AssemblyInfo.cs
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.csproj.CoreCompileInputs.cache
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.dll
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\refint\Jogo_De_Dado.dll
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.pdb
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\Jogo_De_Dado.genruntimeconfig.cache
+C:\Users\20010480\Desktop\Aula02B\Jogo_De_Dado\obj\Debug\net6.0\ref\Jogo_De_Dado.dll

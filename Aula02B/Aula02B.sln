@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula02B", "Aula02B\Aula02B.csproj", "{B8A63B04-964C-4CCD-B9E9-A1C5A21F2F17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula02C", "Aula02C\Aula02C.csproj", "{E2BD9551-7FC2-45A1-98AB-7073410128D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jogo_De_Dado", "Jogo_De_Dado\Jogo_De_Dado.csproj", "{B23C6536-B939-401D-9D4D-CB12E6DBC6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A63B04-964C-4CCD-B9E9-A1C5A21F2F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A63B04-964C-4CCD-B9E9-A1C5A21F2F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A63B04-964C-4CCD-B9E9-A1C5A21F2F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A63B04-964C-4CCD-B9E9-A1C5A21F2F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BD9551-7FC2-45A1-98AB-7073410128D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BD9551-7FC2-45A1-98AB-7073410128D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BD9551-7FC2-45A1-98AB-7073410128D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BD9551-7FC2-45A1-98AB-7073410128D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23C6536-B939-401D-9D4D-CB12E6DBC6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23C6536-B939-401D-9D4D-CB12E6DBC6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23C6536-B939-401D-9D4D-CB12E6DBC6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23C6536-B939-401D-9D4D-CB12E6DBC6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389AEDCA-67EF-4840-AB5C-F272570DFED9}
+	EndGlobalSection
+EndGlobal

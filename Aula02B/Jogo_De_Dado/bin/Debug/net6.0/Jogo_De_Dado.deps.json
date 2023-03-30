@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jogo_De_Dado/1.0.0": {
+        "runtime": {
+          "Jogo_De_Dado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogo_De_Dado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
